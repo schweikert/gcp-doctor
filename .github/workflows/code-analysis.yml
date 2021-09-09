@@ -1,0 +1,17 @@
+name: Code analysis
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - github-actions
+jobs:
+  pre-commit:
+    runs-on: ubuntu-latest
+    container: us-docker.pkg.dev/gcp-doctor-repo/public/gcp-doctor-pipenv:0.6
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run pre-commit
+      run: |
+        pipenv install --dev
+        pipenv run pre-commit run --all-files
