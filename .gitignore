@@ -11,3 +11,5 @@ terraform.tfstate.backup
 *.lock.hcl
 .pyinstaller.build
 .*.swp
+site/public
+site/resources
