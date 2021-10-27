@@ -3,12 +3,12 @@
 
 # pylint: disable=invalid-name
 
+import os
 import pathlib
 import re
 import subprocess
 import sys
 import textwrap
-from os import path
 
 from gcpdiag import lint
 
@@ -97,7 +97,7 @@ def check_rule(rule):
                            check=False)
   if len(lsfiles.stdout) > 0:
     return True
-  elif path.exists(rule_page_path):
+  elif os.path.exists(rule_page_path):
     print(f'rule page not staged: {rule_page_path}', file=sys.stderr)
     return False
   else:
