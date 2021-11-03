@@ -17,6 +17,9 @@ pygmentsUseClasses = false
 #pygmentsOptions = "linenos=table"
 pygmentsStyle = "tango"
 
+# Will give values to .Lastmod etc.
+enableGitInfo = true
+
 [[menu.main]]
     name = "GitHub"
     weight = 50
