@@ -2,98 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/rules/gce/BP/2021_001/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gce/BP/2021_001/</loc>
   </url><url>
-    <loc>/rules/gke/BP/2021_001/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/BP/2021_001/</loc>
   </url><url>
-    <loc>/docs/development/environment/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/docs/development/environment/</loc>
   </url><url>
-    <loc>/rules/gce/ERR/2021_001/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gce/ERR/2021_001/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_001/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_001/</loc>
   </url><url>
-    <loc>/rules/gce/ERR/2021_002/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gce/ERR/2021_002/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_002/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_002/</loc>
   </url><url>
-    <loc>/rules/gce/ERR/2021_003/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gce/ERR/2021_003/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_003/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_003/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_004/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_004/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_005/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_005/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_006/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_006/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_007/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_007/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_008/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_008/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_009/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_009/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_010/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_010/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_011/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_011/</loc>
   </url><url>
-    <loc>/rules/gke/ERR/2021_012/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/ERR/2021_012/</loc>
   </url><url>
-    <loc>/rules/gke/SEC/2021_001/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/SEC/2021_001/</loc>
   </url><url>
-    <loc>/rules/iam/SEC/2021_001/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/iam/SEC/2021_001/</loc>
   </url><url>
-    <loc>/rules/gce/WARN/2021_001/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gce/WARN/2021_001/</loc>
   </url><url>
-    <loc>/rules/gcf/WARN/2021_001/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gcf/WARN/2021_001/</loc>
   </url><url>
-    <loc>/rules/gke/WARN/2021_001/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/WARN/2021_001/</loc>
   </url><url>
-    <loc>/rules/gce/WARN/2021_002/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gce/WARN/2021_002/</loc>
   </url><url>
-    <loc>/rules/gke/WARN/2021_002/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/WARN/2021_002/</loc>
   </url><url>
-    <loc>/rules/gce/WARN/2021_003/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gce/WARN/2021_003/</loc>
   </url><url>
-    <loc>/rules/gke/WARN/2021_003/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/WARN/2021_003/</loc>
   </url><url>
-    <loc>/rules/gke/WARN/2021_004/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/WARN/2021_004/</loc>
   </url><url>
-    <loc>/rules/gke/WARN/2021_005/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/WARN/2021_005/</loc>
   </url><url>
-    <loc>/rules/gke/WARN/2021_006/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/WARN/2021_006/</loc>
   </url><url>
-    <loc>/rules/gke/WARN/2021_007/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/WARN/2021_007/</loc>
   </url><url>
-    <loc>/rules/gke/WARN/2021_008/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/WARN/2021_008/</loc>
   </url><url>
-    <loc>/rules/gke/WARN/2021_009/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/WARN/2021_009/</loc>
   </url><url>
-    <loc>/docs/development/architecture/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/docs/development/architecture/</loc>
   </url><url>
-    <loc>/docs/running/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/docs/running/</loc>
   </url><url>
-    <loc>/docs/usage/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/docs/usage/</loc>
   </url><url>
-    <loc>/docs/authentication/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/docs/authentication/</loc>
   </url><url>
-    <loc>/docs/development/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/docs/development/</loc>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/docs/</loc>
   </url><url>
-    <loc>/rules/gce/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gce/</loc>
   </url><url>
-    <loc>/rules/gcf/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gcf/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/</loc>
   </url><url>
-    <loc>/rules/gke/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/gke/</loc>
   </url><url>
-    <loc>/rules/iam/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/iam/</loc>
   </url><url>
-    <loc>/privacy/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/privacy/</loc>
   </url><url>
-    <loc>/rules/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/rules/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://schweikert.github.io/gcpdiag/search/</loc>
   </url>
 </urlset>
