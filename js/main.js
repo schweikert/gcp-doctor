@@ -145,7 +145,7 @@ limitations under the License.
                     }
 
                     var query = $(this).val();
-                    var searchPage = "https://schweikert.github.io/gcpdiag/search/?q=" + query;
+                    var searchPage = "https://gcpdiag.dev/search/?q=" + query;
                     document.location = searchPage;
 
                     return false;

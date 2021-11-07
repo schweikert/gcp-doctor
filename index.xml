@@ -1,16 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>gcpdiag – gcpdiag</title>
-    <link>https://schweikert.github.io/gcpdiag/</link>
-    <description>Recent content on gcpdiag</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="https://schweikert.github.io/gcpdiag/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-      
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>gcpdiag – gcpdiag</title><link>https://gcpdiag.dev/</link><description>Recent content on gcpdiag</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gcpdiag.dev/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
