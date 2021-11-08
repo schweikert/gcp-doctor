@@ -2,9 +2,8 @@ name: Code analysis
 on:
   pull_request:
   push:
-    branches:
-      - main
-
+env:
+  PIPENV_VENV_IN_PROJECT: enabled
 jobs:
   pre-commit:
     runs-on: ubuntu-latest
@@ -33,11 +32,18 @@ jobs:
       uses: actions/cache@v2
       with:
         path: ./.venv
-        key: code-analysis-${{ runner.os }}-python-${{ steps.setup-python.outputs.python-version }}-pipenv-${{ hashFiles('Pipfile.lock') }}
+        key: ${{ runner.os }}-python-${{ steps.setup-python.outputs.python-version }}-pipenv-${{ hashFiles('Pipfile.lock') }}
 
     - name: Install dependencies
       if: steps.cache-pipenv.outputs.cache-hit != 'true'
       run: pipenv install --deploy --dev
+
+      #- name: Activate pipenv venv
+      #  env:
+      #    PIPENV_VENV_IN_PROJECT: 1
+      #  run: |
+      #    pipenv run bash -c 'echo $PATH' >> $GITHUB_PATH
+      #    pipenv run python -c "import sys; print('\n'.join(sys.path))"
 
     - name: Run pre-commit
       uses: pre-commit/action@9b88afc9cd57fd75b655d5c71bd38146d07135fe
